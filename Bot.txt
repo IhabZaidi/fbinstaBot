@@ -1,5 +1,7 @@
 // Bot Follow For Instgram
 javascript:var inputs = document.getElementsByClassName('_aj7mu _2hpcs _95tat _o0442');for(var i=0; i<inputs.length;) {inputs[i].click();}
+// Bot Remove Follow For Instgram
+javascript:var inputs = document.getElementsByClassName('_aj7mu _r4e4p _95tat _o0442');for(var i=0; i<inputs.length;) {inputs[i].click();}
 // Bot Remove Friends Requests For Facebook
 javascript:var inputs = document.getElementsByClassName('_56bs _56bt');for(var i=0; i<inputs.length;i++) {inputs[i].click();}
 // U can use this bot by console its very easy
